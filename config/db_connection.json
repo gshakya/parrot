@@ -1,0 +1,12 @@
+{
+    "local":{
+        "host": "localhost",
+        "user": "yourusername",
+        "password": "yourpassword"	
+    } ,
+    "server" :{
+        "host": "server",
+        "user": "serverusername",
+        "password": "serverPassword"	
+    }
+}
