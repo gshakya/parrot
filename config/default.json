@@ -1,0 +1,14 @@
+{
+    "dbConfig": {
+        "local": {
+            "host": "localhost",
+            "user": "parrot",
+            "password": "parrot123"
+        },
+        "server": {
+            "host": "server",
+            "user": "serverusername",
+            "password": "serverPassword"
+        }
+    }
+}
